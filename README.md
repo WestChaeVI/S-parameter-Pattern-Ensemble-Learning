@@ -1,6 +1,9 @@
 # S-parameter Pattern Ensemble Learning(2024)      
 
 **Chaejun Seo<sup>1,o</sup>**, Dahyun Lee<sup>1</sup>, Minkyu Kang<sup>2</sup>, Namgyeong Kim<sup>1</sup>, Hyunwoo Nam<sup>2</sup>, Taeyeob Kang<sup>2,\*</sup>, Seunghyeok Hong<sup>1,*</sup>    
+
+<sup>1</sup>Division of Data science,  <sup>2</sup>Division of Industrial and Mechanical Engineering         
+
 Ensemble Learning of Scattering Coefficient Patterns for Non-destructive Estimation of Copper Corrosion Severity in Electronic Products    
 [한국정보과학회 학술발표논문집, In Proceeding (unable not yet)]()       
 
